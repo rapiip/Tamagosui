@@ -16,13 +16,13 @@ const E_PET_IS_ALREADY_ASLEEP: u64 = 109;
 
 // === Constants ===
 const PET_LEVEL_1_IMAGE_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreidkhjpthergw2tcg6u5r344shgi2cdg5afmhgpf5bv34vqfrr7hni";
-const PET_LEVEL_1_IMAGE_WITH_GLASSES_URL: vector<u8> = b"https://violet-chemical-hyena-806.mypinata.cloud/ipfs/bafybeicgo2m7quijicl4oncixm2baddqrjbxoqfikxi77asu5gadyzsusu";
+const PET_LEVEL_1_IMAGE_WITH_GLASSES_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreibizappmcjaq5a5metl27yc46co4kxewigq6zu22vovwvn5qfsbiu";
 const PET_LEVEL_2_IMAGE_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreia5tgsowzfu6mzjfcxagfpbkghfuho6y5ybetxh3wabwrc5ajmlpq";
-const PET_LEVEL_2_IMAGE_WITH_GLASSES_URL:vector<u8> = b"https://violet-chemical-hyena-806.mypinata.cloud/ipfs/bafybeihl4z4vvjz4mrx3lavlxkatm3mjfvveheav75yuouja43ohv6zmze";
+const PET_LEVEL_2_IMAGE_WITH_GLASSES_URL:vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreif5bkpnqyybq3aqgafqm72x4wfjwcuxk33vvykx44weqzuilop424";
 const PET_LEVEL_3_IMAGE_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreidnqerfwxuxkrdsztgflmg5jwuespdkrazl6qmk7ykfgmrfzvinoy";
-const PET_LEVEL_3_IMAGE_WITH_GLASSES_URL:vector<u8> = b"https://violet-chemical-hyena-806.mypinata.cloud/ipfs/bafybeidxnwroaigchdr4e3rfm6gu2om3lqymibxmm53g5hc4ywdyyy6ely";
+const PET_LEVEL_3_IMAGE_WITH_GLASSES_URL:vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreigs6r3rdupoji7pqmpwe76z7wysguzdlq43t3wqmzi2654ux5n6uu";
 const PET_SLEEP_IMAGE_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreihwofl5stihtzjixfhrtznd7zqkclfhmlshgsg7cbszzjqqpvf7ae";
-const ACCESSORY_GLASSES_IMAGE_URL: vector<u8> = b"https://violet-chemical-hyena-806.mypinata.cloud/ipfs/bafybeidu5tbjybwokmxxzpdbo5gb2rafwjghjpbqcjnm5rcwk4fj5dhbpe";
+const ACCESSORY_GLASSES_IMAGE_URL: vector<u8> = b"https://tan-kind-lizard-741.mypinata.cloud/ipfs/bafkreigyivmq45od3jkryryi3w6t5j65hcnfh5kgwpi2ex7llf2i6se7de";
 
 const EQUIPPED_ITEM_KEY: vector<u8> = b"equipped_item";
 const SLEEP_STARTED_AT_KEY: vector<u8> = b"sleep_started_at";

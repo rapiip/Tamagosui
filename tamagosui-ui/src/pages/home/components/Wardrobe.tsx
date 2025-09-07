@@ -116,7 +116,7 @@ export function WardrobeManager({
         ) : (
           <GlassesIcon className="mr-2 h-4 w-4" />
         )}{" "}
-        Mint Cool Glasses
+        Mint Cool Weapon
       </Button>
     );
   };

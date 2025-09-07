@@ -12,7 +12,7 @@ import { useMutateAdoptPet } from "@/hooks/useMutateAdoptPet";
 import { Loader2Icon } from "lucide-react";
 
 const INTIAAL_PET_IMAGE_URL =
-  "https://raw.githubusercontent.com/xfajarr/stacklend/refs/heads/main/photo_2023-04-30_12-46-11.jpg";
+  "https://violet-chemical-hyena-806.mypinata.cloud/ipfs/bafkreifvu35eo5djkqbncqqfw7yihtvhx5tjyueheqhgdle3tynfybkhji";
 
 export default function AdoptComponent() {
   const [petName, setPetName] = useState("");
@@ -27,7 +27,7 @@ export default function AdoptComponent() {
     <Card className="w-full max-w-sm text-center shadow-hard border-2 border-primary">
       <CardHeader>
         <CardTitle className="text-3xl">ADOPT YOUR PET</CardTitle>
-        <CardDescription>A new friend awaits!</CardDescription>
+        <CardDescription>A new friend awaits! LFG!!!</CardDescription>
       </CardHeader>
       <CardContent className="space-y-6">
         <div>
